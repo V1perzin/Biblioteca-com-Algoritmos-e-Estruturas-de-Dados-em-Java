@@ -37,10 +37,10 @@ Classificar os livros em quatro faixas de quantidade de páginas:<br>
 
 ## Funcionalidades
 
- **Adicionar livros**: Os livros são adicionados diretamente no código, mas podem ser adaptados para entrada do usuário.
- **Ordenação**: Os livros são ordenados por páginas usando Bubble Sort.
- **Classificação por faixas**: Os livros são agrupados conforme a quantidade de páginas.
- **Busca**: É possível buscar livros por título ou autor.
+ **Adicionar livros**: Os livros são adicionados diretamente no código, mas podem ser adaptados para entrada do usuário.<br>
+ **Ordenação**: Os livros são ordenados por páginas usando Bubble Sort.<br>
+ **Classificação por faixas**: Os livros são agrupados conforme a quantidade de páginas.<br>
+ **Busca**: É possível buscar livros por título ou autor.<br>
 
 ## Exemplo de saída
 
