@@ -1,11 +1,11 @@
 # Biblioteca Java Classificação e Ordenação de Livros
 
-A implementação foi realizada pelos discentes:
-• José Miguel dos Santos Neto
-• José Luiz Oliveira Cavalcante Teles
-• José Matheus de Castro Lima
-• Bianca de Moura Lucena
-• Samir Freitas dos Santos
+A implementação foi realizada pelos discentes:<br>
+• José Miguel dos Santos Neto<br>
+• José Luiz Oliveira Cavalcante Teles<br>
+• José Matheus de Castro Lima<br>
+• Bianca de Moura Lucena<br>
+• Samir Freitas dos Santos<br>
 
 ## Este projeto é um mini-sistema de biblioteca em Java que permite:
 
