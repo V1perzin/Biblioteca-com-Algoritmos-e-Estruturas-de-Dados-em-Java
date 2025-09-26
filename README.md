@@ -1,6 +1,13 @@
 # Biblioteca Java Classificação e Ordenação de Livros
 
-Este projeto é um mini-sistema de biblioteca em Java que permite:
+A implementação foi realizada pelos discentes:
+• José Miguel dos Santos Neto
+• José Luiz Oliveira Cavalcante Teles
+• José Matheus de Castro Lima
+• Bianca de Moura Lucena
+• Samir Freitas dos Santos
+
+## Este projeto é um mini-sistema de biblioteca em Java que permite:
 
 Adicionar livros à coleção.
 Ordenar os livros pelo número de páginas usando Bubble Sort (implementação manual).
