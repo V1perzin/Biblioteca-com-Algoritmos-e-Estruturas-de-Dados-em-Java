@@ -1,4 +1,4 @@
-# Biblioteca Java — Classificação e Ordenação de Livros
+# Biblioteca Java Classificação e Ordenação de Livros
 
 Este projeto é um mini-sistema de biblioteca em Java que permite:
 
